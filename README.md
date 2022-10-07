@@ -2,7 +2,7 @@
 # Predicting Flu and H1N1 Vaccinations
 
 
-## Machine learning case study that seeks to predict whether an individual is likely to receive an H1N1 and/or flu vaccine based on their behavioral, socioeconomic, and geographical conditions. Implemented as a team towards a term project for the CISC 873 course (Topics in Advanced Data Analytics)@ Queen's University, Winter 2022. Other team members: Katherine Williams, Shreyansh Anand. Grade received: A+ (15/15) 
+## Machine learning case study that seeks to predict whether an individual is likely to receive an H1N1 and/or flu vaccine based on their behavioral, socioeconomic, and geographical conditions. Implemented as a team towards a term project for the CISC 839 course (Topics in Data Analytics: Advanced) @ Queen's University, Winter 2022. Other team members: Katherine Williams, Shreyansh Anand. Grade received: A+ (15/15) 
 
 
 ## Data: 
